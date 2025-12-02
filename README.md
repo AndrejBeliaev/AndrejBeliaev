@@ -109,6 +109,15 @@ Performed code reviews and managed task distribution within the frontend team.
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com?user=AndrejBeliaev&theme=graywhite&hide_border=true&date_format=j%20M%5B%20Y%5D" height="140" />
+  <img
+  src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=AndrejBeliaev&show_icons=true&theme=transparent&hide_border=true&hide_title=true"
+  height="140"
+/>
+
+<img
+  src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=AndrejBeliaev&layout=compact&theme=transparent&hide_border=true&langs_count=6"
+  height="140"
+/>
 </p>
 
 ---
