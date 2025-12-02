@@ -104,7 +104,3 @@ Performed code reviews and managed task distribution within the frontend team.
 - 📍 Based in Ufa, Russia (open to relocation)
 
 ---
-
-<p align="center">
-  <sub>✨ Designed with minimalism in mind — clean, clear, and developer-friendly.</sub>
-</p>
