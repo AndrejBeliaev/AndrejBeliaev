@@ -105,27 +105,12 @@ Performed code reviews and managed task distribution within the frontend team.
 
 ---
 
-### 📊 GitHub Stats
+### 📊 GitHub Activity
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AndrejBeliaev&show_icons=true&theme=transparent&hide_border=true" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AndrejBeliaev&layout=compact&theme=transparent&hide_border=true" height="165" />
-</p>
-
----
-
-### 🏆 Achievements
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=AndrejBeliaev&theme=flat&no-frame=true&margin-w=15&margin-h=15" />
-</p>
-
----
-
-### 🔥 Activity
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=AndrejBeliaev&theme=transparent&hide_border=true" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=AndrejBeliaev&theme=graywhite&hide_border=true&date_format=j%20M%5B%20Y%5D" height="140" />
+  <img src="https://github-readme-stats.vercel.app/api?username=AndrejBeliaev&show_icons=true&theme=transparent&hide_border=true&hide_title=true" height="140" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AndrejBeliaev&layout=compact&theme=transparent&hide_border=true&langs_count=6" height="140" />
 </p>
 
 ---
