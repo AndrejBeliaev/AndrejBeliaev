@@ -105,14 +105,6 @@ Performed code reviews and managed task distribution within the frontend team.
 
 ---
 
-### 📈 GitHub Metrics
-
-<p align="center">
-  <img src="https://github-readme-metrics.vercel.app/api?username=AndrejBeliaev&template=classic&base=header,activity,community,repositories,commits&config.timezone=Europe/Moscow" alt="Metrics" width="90%">
-</p>
-
----
-
 <p align="center">
   <sub>✨ Designed with minimalism in mind — clean, clear, and developer-friendly.</sub>
 </p>
