@@ -105,10 +105,10 @@ Performed code reviews and managed task distribution within the frontend team.
 
 ---
 
-### 📊 GitHub Activity
+### 📈 GitHub Metrics
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=AndrejBeliaev&theme=graywhite&hide_border=true&date_format=j%20M%5B%20Y%5D" height="140" />
+  <img src="https://github-readme-metrics.vercel.app/api?username=AndrejBeliaev&template=classic&base=header,activity,community,repositories,commits&config.timezone=Europe/Moscow" alt="Metrics" width="90%">
 </p>
 
 ---
